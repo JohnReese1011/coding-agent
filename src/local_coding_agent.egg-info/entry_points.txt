@@ -1,0 +1,3 @@
+[console_scripts]
+coding-agent = coding_agent.cli:main
+coding-agent-api = coding_agent.api:run
